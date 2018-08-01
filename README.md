@@ -4,8 +4,6 @@
 
 表情符号表 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
-Flask中文文档 http://dormousehole.readthedocs.io/zh_CN/latest/
-
 Python最佳实践指南！ http://pythonguidecn.readthedocs.io/zh/latest/
 
 Go语言圣经中文版 https://wizardforcel.gitbooks.io/gopl-zh/content/
@@ -23,3 +21,5 @@ pandas:强大的Python数据分析工具包 https://apachecn.github.io/pandas-do
 NumPy参考 https://apachecn.github.io/numpy-ref-zh/
 
 Google 开源项目风格指南 http://zh-google-styleguide.readthedocs.io/en/latest/contents/
+
+Python进阶 https://eastlakeside.gitbooks.io/interpy-zh/content/
