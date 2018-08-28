@@ -23,3 +23,5 @@ NumPy参考 https://apachecn.github.io/numpy-ref-zh/
 Google 开源项目风格指南 http://zh-google-styleguide.readthedocs.io/en/latest/contents/
 
 Python进阶 https://eastlakeside.gitbooks.io/interpy-zh/content/
+
+《Kotlin for android developers》中文版翻译 https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/
