@@ -25,3 +25,5 @@ Google 开源项目风格指南 http://zh-google-styleguide.readthedocs.io/en/la
 Python进阶 https://eastlakeside.gitbooks.io/interpy-zh/content/
 
 Kotlin for android developers 中文版翻译 https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/
+
+Kotlin 快速入门 https://www.jianshu.com/p/272074d518af
