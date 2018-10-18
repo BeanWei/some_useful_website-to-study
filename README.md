@@ -40,4 +40,4 @@ Dart语言入门 http://han.guokai.blog.163.com/blog/static/13671827120121012931
 
 Dart语法学习 https://www.jianshu.com/p/9e5f4c81cc7d
 
-Dart布局详解 https://www.cnblogs.com/holy-loki/tag/Flutter/
+Flutter布局详解 https://www.cnblogs.com/holy-loki/tag/Flutter/
