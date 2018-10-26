@@ -51,3 +51,5 @@ ARM 汇编指令 https://www.cnblogs.com/huhu0013/p/4103024.html
 Android逆向之动态调试总结 https://www.52pojie.cn/thread-293648-1-1.html
 
 APK加固之静态脱壳机编写入门 https://www.52pojie.cn/thread-426890-1-3.html
+
+360加固之动态脱壳【2015年】 https://www.52pojie.cn/thread-435746-1-3.html
