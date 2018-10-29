@@ -26,6 +26,8 @@ Python进阶 https://eastlakeside.gitbooks.io/interpy-zh/content/
 
 Kotlin for android developers 中文版翻译 https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/
 
+Kotlin中文语言站 http://www.kotlincn.net/docs/reference/
+
 Kotlin 快速入门 https://www.jianshu.com/p/272074d518af
 
 Kotlin 官方参考文档 中文版 https://hltj.gitbooks.io/kotlin-reference-chinese/content/
