@@ -24,6 +24,8 @@ Google 开源项目风格指南 http://zh-google-styleguide.readthedocs.io/en/la
 
 Python进阶 https://eastlakeside.gitbooks.io/interpy-zh/content/
 
+Android App的设计架构：MVC,MVP,MVVM与架构经验谈 https://www.cnblogs.com/wytiger/p/5305087.html
+
 Kotlin for android developers 中文版翻译 https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/
 
 Kotlin语言详细教程 http://www.cnblogs.com/Jetictors/p/9227498.html
