@@ -12,6 +12,8 @@ Go语言圣经中文版 https://wizardforcel.gitbooks.io/gopl-zh/content/
 
 Go 实效编程 https://bingohuang.gitbooks.io/effective-go-zh-en/content/
 
+Go 编写Web服务 https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/
+
 Pythin3 cookbook http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
 
 笨办法学Python https://wizardforcel.gitbooks.io/lmpythw/content/
