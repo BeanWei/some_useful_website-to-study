@@ -10,6 +10,8 @@ Python最佳实践指南！ http://pythonguidecn.readthedocs.io/zh/latest/
 
 Go语言圣经中文版 https://wizardforcel.gitbooks.io/gopl-zh/content/
 
+Go中文开发手册 http://www.php.cn/manual/view/35126.html
+
 Go 实效编程 https://bingohuang.gitbooks.io/effective-go-zh-en/content/
 
 Go 编写Web服务 https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/
