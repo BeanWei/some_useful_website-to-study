@@ -10,6 +10,8 @@ Python最佳实践指南！ http://pythonguidecn.readthedocs.io/zh/latest/
 
 flask-mega-tutorial中文版 http://www.pythondoc.com/flask-mega-tutorial/
 
+利用 Python 进行数据分析 · 第 2 版 https://wizardforcel.gitbooks.io/pyda-2e/content/
+
 Go语言圣经中文版 https://wizardforcel.gitbooks.io/gopl-zh/content/
 
 Go中文开发手册 http://www.php.cn/manual/view/35126.html
