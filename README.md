@@ -4,6 +4,8 @@
 
 大漠-CS布局 http://layout.imweb.io/
 
+Echarts文档 https://www.w3cschool.cn/echarts_tutorial/
+
 表情符号表 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 Python最佳实践指南！ http://pythonguidecn.readthedocs.io/zh/latest/
