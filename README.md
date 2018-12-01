@@ -8,6 +8,8 @@ Echarts文档 https://www.w3cschool.cn/echarts_tutorial/
 
 表情符号表 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
+动手学深度学习 https://zh.diveintodeeplearning.org/
+
 Python最佳实践指南！ http://pythonguidecn.readthedocs.io/zh/latest/
 
 flask-mega-tutorial中文版 http://www.pythondoc.com/flask-mega-tutorial/
