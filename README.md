@@ -6,6 +6,8 @@
 
 Echarts文档 https://www.w3cschool.cn/echarts_tutorial/
 
+Chrome DevTools Protocol https://chromedevtools.github.io/devtools-protocol/tot/
+
 表情符号表 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 动手学深度学习 https://zh.diveintodeeplearning.org/
