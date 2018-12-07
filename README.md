@@ -10,6 +10,8 @@ Chrome DevTools Protocol https://chromedevtools.github.io/devtools-protocol/tot/
 
 Chrome开发工具-中文说明 https://developers.google.cn/web/tools/chrome-devtools/
 
+puppeteer 中文文档 (Nodejs headless chrome) https://zhaoqize.github.io/puppeteer-api-zh_CN/
+
 表情符号表 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 动手学深度学习 https://zh.diveintodeeplearning.org/
