@@ -2,6 +2,8 @@
 
 一译：文档翻译站点 https://yiyibooks.cn/
 
+云+社区·开发者手册 https://cloud.tencent.com/developer/devdocs
+
 大漠-CS布局 http://layout.imweb.io/
 
 Echarts文档 https://www.w3cschool.cn/echarts_tutorial/
