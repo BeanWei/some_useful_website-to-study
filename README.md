@@ -22,6 +22,8 @@ Python最佳实践指南！ http://pythonguidecn.readthedocs.io/zh/latest/
 
 flask-mega-tutorial中文版 http://www.pythondoc.com/flask-mega-tutorial/
 
+Tornado (python异步web框架)中文文档 https://tornado-zh.readthedocs.io/zh/latest/index.html
+
 利用 Python 进行数据分析 · 第 2 版 https://wizardforcel.gitbooks.io/pyda-2e/content/
 
 Go语言圣经中文版 https://wizardforcel.gitbooks.io/gopl-zh/content/
