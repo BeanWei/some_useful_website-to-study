@@ -93,3 +93,5 @@ APK加固之静态脱壳机编写入门 https://www.52pojie.cn/thread-426890-1-3
 electron-vue 中文手册 https://simulatedgreg.gitbooks.io/electron-vue/content/cn/
 
 Electron 文档 https://electronjs.org/docs
+
+企业开发手册 https://z42.readthedocs.io/zh/latest/
