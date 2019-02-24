@@ -97,3 +97,5 @@ Electron 文档 https://electronjs.org/docs
 企业开发手册 https://z42.readthedocs.io/zh/latest/
 
 Selenium防识别方法 https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver
+
+Micro8渗透攻击 https://micro8.gitbook.io/micro8/
