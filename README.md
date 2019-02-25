@@ -103,3 +103,5 @@ Micro8渗透攻击 https://micro8.gitbook.io/micro8/
 Docker从入门到实践 https://yeasy.gitbooks.io/docker_practice/content/
 
 RESTful API 最佳实践 - 阮一峰的网络日志 http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html
+
+《微服务：从设计到部署》中文版 https://docshome.gitbooks.io/microservices/content/
