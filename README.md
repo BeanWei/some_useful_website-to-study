@@ -101,3 +101,5 @@ Selenium防识别方法 https://stackoverflow.com/questions/33225947/can-a-websi
 Micro8渗透攻击 https://micro8.gitbook.io/micro8/
 
 Docker从入门到实践 https://yeasy.gitbooks.io/docker_practice/content/
+
+RESTful API 最佳实践 - 阮一峰的网络日志 http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html
